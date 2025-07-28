@@ -1,0 +1,12 @@
+D:\Git\UnLuaPro\UnLuaPro\Binaries\DotNET\UnrealBuildTool\Plugins\UnLuaDefaultParamCollectorUbtPlugin\UnLuaDefaultParamCollectorUbtPlugin.deps.json
+D:\Git\UnLuaPro\UnLuaPro\Binaries\DotNET\UnrealBuildTool\Plugins\UnLuaDefaultParamCollectorUbtPlugin\UnLuaDefaultParamCollectorUbtPlugin.dll
+D:\Git\UnLuaPro\UnLuaPro\Binaries\DotNET\UnrealBuildTool\Plugins\UnLuaDefaultParamCollectorUbtPlugin\ref\UnLuaDefaultParamCollectorUbtPlugin.dll
+D:\Git\UnLuaPro\UnLuaPro\Binaries\DotNET\UnrealBuildTool\Plugins\UnLuaDefaultParamCollectorUbtPlugin\UnLuaDefaultParamCollectorUbtPlugin.pdb
+D:\Git\UnLuaPro\UnLuaPro\Plugins\UnLua\Source\UnLuaDefaultParamCollectorUbtPlugin\obj\Development\UnLuaDefaultParamCollectorUbtPlugin.ubtplugin.csproj.AssemblyReference.cache
+D:\Git\UnLuaPro\UnLuaPro\Plugins\UnLua\Source\UnLuaDefaultParamCollectorUbtPlugin\obj\Development\UnLuaDefaultParamCollectorUbtPlugin.ubtplugin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\UnLuaPro\UnLuaPro\Plugins\UnLua\Source\UnLuaDefaultParamCollectorUbtPlugin\obj\Development\UnLuaDefaultParamCollectorUbtPlugin.ubtplugin.csproj.CoreCompileInputs.cache
+D:\Git\UnLuaPro\UnLuaPro\Plugins\UnLua\Source\UnLuaDefaultParamCollectorUbtPlugin\obj\Development\UnLuaDefaultParamCollectorUbtPlugin.ubtplugin.sourcelink.json
+D:\Git\UnLuaPro\UnLuaPro\Plugins\UnLua\Source\UnLuaDefaultParamCollectorUbtPlugin\obj\Development\UnLuaDef.FD857114.Up2Date
+D:\Git\UnLuaPro\UnLuaPro\Plugins\UnLua\Source\UnLuaDefaultParamCollectorUbtPlugin\obj\Development\UnLuaDefaultParamCollectorUbtPlugin.dll
+D:\Git\UnLuaPro\UnLuaPro\Plugins\UnLua\Source\UnLuaDefaultParamCollectorUbtPlugin\obj\Development\refint\UnLuaDefaultParamCollectorUbtPlugin.dll
+D:\Git\UnLuaPro\UnLuaPro\Plugins\UnLua\Source\UnLuaDefaultParamCollectorUbtPlugin\obj\Development\UnLuaDefaultParamCollectorUbtPlugin.pdb
