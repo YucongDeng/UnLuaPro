@@ -1,0 +1,11 @@
+# ignore temp dir
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+UnLuaPro.sln
+!Plugins/UnLua/Source/ThirdParty/Lua/lua-5.4.3/**
+/Plugins/LuaWidgetBase
+/Build
+Backup/
+UpGradeLog.htms
