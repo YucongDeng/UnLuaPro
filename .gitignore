@@ -3,6 +3,9 @@ Binaries/
 DerivedDataCache/
 Intermediate/
 Saved/
+.idea/
+.vs/
+csconfig
 UnLuaPro.sln
 !Plugins/UnLua/Source/ThirdParty/Lua/lua-5.4.3/**
 /Plugins/LuaWidgetBase
